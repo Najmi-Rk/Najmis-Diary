@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("NastarsBakery( ≧∀≦)ノ")
+st.title("NastarsBakery")
 st.write(
-    "find your sweet food at this place ><"
+    "find your sweet food at this place"
 )
 
     
