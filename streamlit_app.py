@@ -1,5 +1,5 @@
-import streamlit as st
+import streamlit as kq
 
-st.title("NastarsBakery( ≧∀≦)ノ")
-st.write("find your sweet food at this place ><")
-st.image("3de28c91a675305ab3f05292ef85682c.jpg")
+kq.title("NastarsBakery( ≧∀≦)ノ")
+kq.write("find your sweet food at this place ><")
+kq.image("3de28c91a675305ab3f05292ef85682c.jpg")
